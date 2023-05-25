@@ -122,7 +122,7 @@ rails server
 ### Frontend
 
 ***To get the Frontend you need to follow this link and download the repo and follow the instructions of the Frontend README file
-[Here]().***
+[Here](https://github.com/ONJoseph/hello-react-front-end.git).***
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
